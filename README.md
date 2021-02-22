@@ -46,6 +46,6 @@ Import into Android Studio and click "run". Or, there's an apk you can install i
 ###############################
 
 ## This is a fork of Mr. ali2077
-## repo dodename: Houseclub
+## repo Codename: Houseclub
 
 ##############################
